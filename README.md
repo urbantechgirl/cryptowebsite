@@ -1,2 +1,2 @@
 # cryptosite
-https://urbantechgirl.github.io/cryptosite/
+https://urbantechgirl.github.io/cryptowebsite/
